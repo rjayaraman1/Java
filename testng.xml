@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNgMavenSuite" parallel="false">
+  <test name="TestNgMavenTest">
+  <classes>
+      <class name="com.rajej.interview.tests.RemoveCharTest"/>
+      
+    </classes>
+  </test>
+</suite>
